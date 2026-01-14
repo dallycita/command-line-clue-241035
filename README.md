@@ -114,3 +114,21 @@ cat clue.txt   # Read the next clue
 - Keep track of which suspects and weapons you've crossed off
 
 Happy investigating, Detective! The town is counting on you to solve this mystery!
+
+
+
+
+## acusacion
+
+este es mi acusado 
+
+- **Suspect:** The Gardener
+- **Weapon:** Garden Shears
+- **Location:** shops/cafe
+
+me salen dos malas pero al final deje estas respuestas
+
+Your accusation is incorrect:
+Suspect:  ❌ Incorrect
+Weapon:   ❌ Incorrect
+Location: ✅ Correct
