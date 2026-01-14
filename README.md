@@ -124,3 +124,9 @@ Weapon: Garden Shears
 Location: shops/cafe
 me salen dos malas pero al final deje estas respuestas
 
+
+
+Your accusation is incorrect:
+Suspect:  ❌ Incorrect
+Weapon:   ❌ Incorrect
+Location: ✅ Correct
