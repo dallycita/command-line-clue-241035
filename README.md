@@ -114,3 +114,13 @@ cat clue.txt   # Read the next clue
 - Keep track of which suspects and weapons you've crossed off
 
 Happy investigating, Detective! The town is counting on you to solve this mystery!
+
+Command Line Clue – Case Resolution
+acusacion
+este es mi acusado
+
+Suspect: The Gardener
+Weapon: Garden Shears
+Location: shops/cafe
+me salen dos malas pero al final deje estas respuestas
+
